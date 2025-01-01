@@ -382,5 +382,13 @@
     "hwid": "238146185214673",
     "expireDate": "9999-10-10",
     "key": "MTAw"
+  },
+  {
+    "username": "1",
+    "password": "1",
+    "subscription": "sel",
+    "hwid": "",
+    "expireDate": "9999-12-31",
+    "key": "MQ=="
   }
 ]
