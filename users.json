@@ -457,7 +457,7 @@
     "expireDate": "9999-12-31",
     "key": "MQ==",
     "hwid_reset_count": 1000000001,
-    "banned": false
+    "banned": true
   },
   {
     "username": "100",
