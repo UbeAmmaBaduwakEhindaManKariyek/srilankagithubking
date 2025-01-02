@@ -453,10 +453,10 @@
     "username": "1",
     "password": "1",
     "subscription": "Supreme-Essential-Legit",
-    "hwid": "3ed120232c020d6417e535f2be1ce615187c9728936792b8fce134f72ab43faa",
+    "hwid": "",
     "expireDate": "9999-12-31",
     "key": "MQ==",
-    "hwid_reset_count": 1000000001,
+    "hwid_reset_count": 1000000000,
     "banned": false
   },
   {
