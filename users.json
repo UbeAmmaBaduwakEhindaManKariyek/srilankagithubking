@@ -377,6 +377,6 @@
     "expireDate": "2029-12-31",
     "key": "MTAw",
     "hwid_reset_count": 4,
-    "banned": false
+    "banned": true
   }
 ]
