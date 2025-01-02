@@ -366,6 +366,6 @@
     "hwid": "",
     "expireDate": "9999-12-31",
     "key": "MQ==",
-    "hwid_reset_count": 4
+    "hwid_reset_count": 100000003
   }
 ]
