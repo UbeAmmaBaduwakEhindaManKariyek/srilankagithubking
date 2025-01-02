@@ -381,7 +381,8 @@
     "subscription": "Supreme-Essential-Legit",
     "hwid": "238146185214673",
     "expireDate": "9999-10-10",
-    "key": "MTAw"
+    "key": "MTAw",
+    "banned": true
   },
   {
     "username": "1",
