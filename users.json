@@ -366,7 +366,7 @@
     "hwid": "",
     "expireDate": "999-12-31",
     "key": "MQ==",
-    "hwid_reset_count": 5,
+    "hwid_reset_count": 1000000004,
     "banned": false
   }
 ]
