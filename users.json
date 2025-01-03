@@ -491,5 +491,15 @@
     "key": "U2lra2E=",
     "hwid_reset_count": 5,
     "banned": false
+  },
+  {
+    "username": "10",
+    "password": "1",
+    "subscription": "Legit",
+    "hwid": "",
+    "expireDate": "2025-12-12",
+    "key": "MTA=",
+    "hwid_reset_count": 5,
+    "banned": false
   }
 ]
