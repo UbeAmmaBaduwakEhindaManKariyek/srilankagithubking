@@ -491,5 +491,15 @@
     "key": "c2U=",
     "hwid_reset_count": 5,
     "banned": false
+  },
+  {
+    "username": "s",
+    "password": "1",
+    "subscription": "Supreme",
+    "hwid": "",
+    "expireDate": "9999-12-12",
+    "key": "cw==",
+    "hwid_reset_count": 5,
+    "banned": false
   }
 ]
