@@ -521,5 +521,15 @@
     "key": "c2w=",
     "hwid_reset_count": 5,
     "banned": false
+  },
+  {
+    "username": "el",
+    "password": "1",
+    "subscription": "Essential-Legit",
+    "hwid": "",
+    "expireDate": "9999-12-12",
+    "key": "ZWw=",
+    "hwid_reset_count": 5,
+    "banned": false
   }
 ]
