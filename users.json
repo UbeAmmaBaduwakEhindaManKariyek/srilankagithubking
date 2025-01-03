@@ -531,5 +531,15 @@
     "key": "ZWw=",
     "hwid_reset_count": 5,
     "banned": false
+  },
+  {
+    "username": "l",
+    "password": "1",
+    "subscription": "Legit",
+    "hwid": "",
+    "expireDate": "9999-12-12",
+    "key": "bA==",
+    "hwid_reset_count": 5,
+    "banned": false
   }
 ]
