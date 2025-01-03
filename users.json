@@ -511,5 +511,15 @@
     "key": "ZQ==",
     "hwid_reset_count": 5,
     "banned": false
+  },
+  {
+    "username": "sl",
+    "password": "1",
+    "subscription": "Supreme-Legit",
+    "hwid": "",
+    "expireDate": "9999-12-12",
+    "key": "c2w=",
+    "hwid_reset_count": 5,
+    "banned": false
   }
 ]
