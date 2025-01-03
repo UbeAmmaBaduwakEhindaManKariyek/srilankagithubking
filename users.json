@@ -461,5 +461,35 @@
     "key": "MTAw",
     "hwid_reset_count": 4,
     "banned": false
+  },
+  {
+    "username": "lioo",
+    "password": "lioo",
+    "subscription": "Supreme-Essential",
+    "hwid": "",
+    "expireDate": "2028-12-29",
+    "key": "xhkqsym6",
+    "hwid_reset_count": 5,
+    "banned": false
+  },
+  {
+    "username": "venom",
+    "password": "venom",
+    "subscription": "Supreme-Essential",
+    "hwid": "",
+    "expireDate": "2028-12-29",
+    "key": "xhkqsym6",
+    "hwid_reset_count": 5,
+    "banned": false
+  },
+  {
+    "username": "carlo",
+    "password": "1234",
+    "subscription": "Supreme-Essential",
+    "hwid": "",
+    "expireDate": "2028-12-29",
+    "key": "xhkqsym6",
+    "hwid_reset_count": 5,
+    "banned": false
   }
 ]
