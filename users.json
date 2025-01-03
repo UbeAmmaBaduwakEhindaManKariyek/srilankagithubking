@@ -481,5 +481,15 @@
     "key": "U2lra2E=",
     "hwid_reset_count": 5,
     "banned": false
+  },
+  {
+    "username": "se",
+    "password": "1",
+    "subscription": "Supreme-Essential",
+    "hwid": "",
+    "expireDate": "9999-12-12",
+    "key": "c2U=",
+    "hwid_reset_count": 5,
+    "banned": false
   }
 ]
