@@ -443,16 +443,6 @@
     "banned": false
   },
   {
-    "username": "100",
-    "password": "1",
-    "subscription": "Supreme-Essential",
-    "hwid": "dd824d74e421226abd2062d17cdbe8fcb9bee7540f0ec2a6aca0f36725221caa",
-    "expireDate": "2029-12-31",
-    "key": "MTAw",
-    "hwid_reset_count": 4,
-    "banned": false
-  },
-  {
     "username": "lioo",
     "password": "lioo",
     "subscription": "Supreme-Essential",
