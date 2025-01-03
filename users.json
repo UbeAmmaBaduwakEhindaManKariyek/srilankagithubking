@@ -501,5 +501,15 @@
     "key": "cw==",
     "hwid_reset_count": 5,
     "banned": false
+  },
+  {
+    "username": "e",
+    "password": "1",
+    "subscription": "Essential",
+    "hwid": "",
+    "expireDate": "9999-12-12",
+    "key": "ZQ==",
+    "hwid_reset_count": 5,
+    "banned": false
   }
 ]
