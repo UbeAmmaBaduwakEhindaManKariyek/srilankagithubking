@@ -561,5 +561,15 @@
     "key": "U2hhbg==",
     "hwid_reset_count": 5,
     "banned": false
+  },
+  {
+    "username": "mafi",
+    "password": "1",
+    "subscription": "Supreme-Essential",
+    "hwid": "",
+    "expireDate": "2028-12-12",
+    "key": "bWFmaQ==",
+    "hwid_reset_count": 5,
+    "banned": false
   }
 ]
