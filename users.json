@@ -621,5 +621,15 @@
     "key": "QmludXJh",
     "hwid_reset_count": 5,
     "banned": false
+  },
+  {
+    "username": "Ishan",
+    "password": "1",
+    "subscription": "Supreme-Essential-Legit",
+    "hwid": "",
+    "expireDate": "2222-12-12",
+    "key": "SXNoYW4=",
+    "hwid_reset_count": 5,
+    "banned": false
   }
 ]
